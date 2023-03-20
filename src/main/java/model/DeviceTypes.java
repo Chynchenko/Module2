@@ -1,2 +1,6 @@
-package model;public class DeviceTypes {
+package model;
+
+public enum DeviceTypes {
+    TELEPHONE,
+    TELEVISION
 }

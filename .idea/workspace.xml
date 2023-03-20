@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b62045fb-9acc-404d-b1f6-a4588f58ad8d" name="Changes" comment="" />
+    <list default="true" id="b62045fb-9acc-404d-b1f6-a4588f58ad8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CountDevicesAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/CountDevicesAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CountRetailInvoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/CountRetailInvoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CountSumAllInvoicesAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/CountSumAllInvoicesAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CreateFifteenInvoiceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/CreateFifteenInvoiceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CreateFileInvoiceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/CreateFileInvoiceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CreateInvoiceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/CreateInvoiceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/DeleteInvoiceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/DeleteInvoiceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/ExitAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/ExitAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/FindAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/FindAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/FindFirstThreeInvoices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/FindFirstThreeInvoices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/FindInvoicesCustomerUnderEighteenAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/FindInvoicesCustomerUnderEighteenAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/FindInvoicesWithOneDeviceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/FindInvoicesWithOneDeviceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/MinimalInvoiceSumAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/MinimalInvoiceSumAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/ShowAllAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/ShowAllAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/SortInvoiceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/action/SortInvoiceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analytics/DataAnalytics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analytics/DataAnalytics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/DeviceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/DeviceTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Telephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Telephone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/CustomerListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/CustomerListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/InvoiceListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/InvoiceListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ShopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/file.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/file.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/analytics/DataAnalyticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/analytics/DataAnalyticsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,17 +67,33 @@
     </option>
   </component>
   <component name="ProjectId" id="2KaEKRrsA0KsopAv7tCuLlq8rtI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="analytics" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +104,45 @@
       <updated>1674204232432</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/action/FindAction.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/analytics/DataAnalytics.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/Invoice.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/Television.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/UserInput.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/service/ShopService.java</url>
+          <line>231</line>
+          <properties class="service.ShopService" method="sortInvoices">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
